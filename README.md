@@ -73,7 +73,7 @@ project/
 
 **Mehak Rathoure**
 
-* GitHub: https://github.com/Mehakrathoure
+* GitHub:  https://mehakrathoure.github.io/Ecommerce-Website/
 * LinkedIn: https://linkedin.com/in/mehak-rathoure-b0289b283
 
 ---
